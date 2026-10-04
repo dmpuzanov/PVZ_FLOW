@@ -1,0 +1,1201 @@
+{
+  "version": "2.1",
+  "exportedAt": "2026-09-28T00:00:00.000Z",
+  "source": "Полная история 07-27; зеркальные корректировки схлопнуты на первую дату, подтверждённые исправления 20.09 сохранены",
+  "arrivals": [
+    {
+      "id": "csv-arr-7",
+      "date": "2026-09-07",
+      "article": "Г-1800",
+      "quantity": 3.0,
+      "type": "arrival",
+      "note": "Импорт CSV",
+      "createdAt": "2026-09-07T12:00:07.000Z"
+    },
+    {
+      "id": "csv-arr-11",
+      "date": "2026-09-07",
+      "article": "Г-800",
+      "quantity": 2.0,
+      "type": "arrival",
+      "note": "Импорт CSV",
+      "createdAt": "2026-09-07T12:00:11.000Z"
+    },
+    {
+      "id": "csv-arr-15",
+      "date": "2026-09-07",
+      "article": "Ми-К",
+      "quantity": 1.0,
+      "type": "arrival",
+      "note": "Импорт CSV",
+      "createdAt": "2026-09-07T12:00:15.000Z"
+    },
+    {
+      "id": "csv-arr-26",
+      "date": "2026-09-10",
+      "article": "АК-15",
+      "quantity": 10.0,
+      "type": "arrival",
+      "note": "Импорт CSV",
+      "createdAt": "2026-09-10T12:00:26.000Z"
+    },
+    {
+      "id": "csv-arr-27",
+      "date": "2026-09-10",
+      "article": "Г-3500",
+      "quantity": 2.0,
+      "type": "arrival",
+      "note": "Импорт CSV",
+      "createdAt": "2026-09-10T12:00:27.000Z"
+    },
+    {
+      "id": "csv-arr-28",
+      "date": "2026-09-10",
+      "article": "Г-1800",
+      "quantity": 129.0,
+      "type": "arrival",
+      "note": "Импорт CSV",
+      "createdAt": "2026-09-10T12:00:28.000Z"
+    },
+    {
+      "id": "csv-arr-31",
+      "date": "2026-09-10",
+      "article": "Ми-К",
+      "quantity": 10.0,
+      "type": "arrival",
+      "note": "Импорт CSV",
+      "createdAt": "2026-09-10T12:00:31.000Z"
+    },
+    {
+      "id": "csv-arr-33",
+      "date": "2026-09-10",
+      "article": "Ми-П",
+      "quantity": 27.0,
+      "type": "arrival",
+      "note": "Импорт CSV",
+      "createdAt": "2026-09-10T12:00:33.000Z"
+    },
+    {
+      "id": "csv-arr-40",
+      "date": "2026-09-11",
+      "article": "Г-800",
+      "quantity": 64.0,
+      "type": "arrival",
+      "note": "Импорт CSV",
+      "createdAt": "2026-09-11T12:00:40.000Z"
+    },
+    {
+      "id": "csv-arr-53",
+      "date": "2026-09-13",
+      "article": "Г-3500",
+      "quantity": 2.0,
+      "type": "arrival",
+      "note": "Импорт CSV",
+      "createdAt": "2026-09-13T12:00:53.000Z"
+    },
+    {
+      "id": "csv-arr-57",
+      "date": "2026-09-14",
+      "article": "АК-10",
+      "quantity": 15.0,
+      "type": "arrival",
+      "note": "Импорт CSV",
+      "createdAt": "2026-09-14T12:00:57.000Z"
+    },
+    {
+      "id": "csv-arr-60",
+      "date": "2026-09-14",
+      "article": "Г-3500",
+      "quantity": 14.0,
+      "type": "arrival",
+      "note": "Импорт CSV",
+      "createdAt": "2026-09-14T12:00:00.000Z"
+    },
+    {
+      "id": "csv-ret-63",
+      "date": "2026-09-14",
+      "article": "Ми-К",
+      "quantity": 1.0,
+      "type": "return",
+      "note": "Импорт CSV",
+      "createdAt": "2026-09-14T12:00:03.000Z"
+    },
+    {
+      "id": "csv-arr-70",
+      "date": "2026-09-15",
+      "article": "Ми-К",
+      "quantity": 20.0,
+      "type": "arrival",
+      "note": "Импорт CSV",
+      "createdAt": "2026-09-15T12:00:10.000Z"
+    },
+    {
+      "id": "csv-arr-133",
+      "date": "2026-09-25",
+      "article": "Г-1800",
+      "quantity": 4.0,
+      "type": "arrival",
+      "note": "Импорт CSV",
+      "createdAt": "2026-09-25T12:00:13.000Z"
+    },
+    {
+      "id": "csv-arr-135",
+      "date": "2026-09-25",
+      "article": "Г-800",
+      "quantity": 2.0,
+      "type": "arrival",
+      "note": "Импорт CSV",
+      "createdAt": "2026-09-25T12:00:15.000Z"
+    },
+    {
+      "id": "csv-arr-137",
+      "date": "2026-09-25",
+      "article": "Ми-К",
+      "quantity": 5.0,
+      "type": "arrival",
+      "note": "Импорт CSV",
+      "createdAt": "2026-09-25T12:00:17.000Z"
+    },
+    {
+      "id": "csv-arr-140",
+      "date": "2026-09-26",
+      "article": "АК-10",
+      "quantity": 36.0,
+      "type": "arrival",
+      "note": "Импорт CSV",
+      "createdAt": "2026-09-26T12:00:20.000Z"
+    },
+    {
+      "id": "csv-arr-142",
+      "date": "2026-09-26",
+      "article": "АК-15",
+      "quantity": 43.0,
+      "type": "arrival",
+      "note": "Импорт CSV",
+      "createdAt": "2026-09-26T12:00:22.000Z"
+    },
+    {
+      "id": "csv-arr-143",
+      "date": "2026-09-26",
+      "article": "Г-3500",
+      "quantity": 3.0,
+      "type": "arrival",
+      "note": "Импорт CSV",
+      "createdAt": "2026-09-26T12:00:23.000Z"
+    },
+    {
+      "id": "csv-arr-145",
+      "date": "2026-09-26",
+      "article": "Г-1800",
+      "quantity": 38.0,
+      "type": "arrival",
+      "note": "Импорт CSV",
+      "createdAt": "2026-09-26T12:00:25.000Z"
+    },
+    {
+      "id": "csv-arr-147",
+      "date": "2026-09-26",
+      "article": "Г-800",
+      "quantity": 58.0,
+      "type": "arrival",
+      "note": "Импорт CSV",
+      "createdAt": "2026-09-26T12:00:27.000Z"
+    },
+    {
+      "id": "csv-arr-149",
+      "date": "2026-09-26",
+      "article": "Ми-К",
+      "quantity": 30.0,
+      "type": "arrival",
+      "note": "Импорт CSV",
+      "createdAt": "2026-09-26T12:00:29.000Z"
+    }
+  ],
+  "shipments": [
+    {
+      "id": "csv-shp-8",
+      "date": "2026-09-07",
+      "article": "Г-1800",
+      "quantity": 3.0,
+      "createdAt": "2026-09-07T12:00:08.000Z"
+    },
+    {
+      "id": "csv-shp-12",
+      "date": "2026-09-07",
+      "article": "Г-800",
+      "quantity": 2.0,
+      "createdAt": "2026-09-07T12:00:12.000Z"
+    },
+    {
+      "id": "csv-shp-16",
+      "date": "2026-09-07",
+      "article": "Ми-К",
+      "quantity": 1.0,
+      "createdAt": "2026-09-07T12:00:16.000Z"
+    },
+    {
+      "id": "csv-shp-18",
+      "date": "2026-09-08",
+      "article": "АК-10",
+      "quantity": 1.0,
+      "createdAt": "2026-09-08T12:00:18.000Z"
+    },
+    {
+      "id": "csv-shp-19",
+      "date": "2026-09-08",
+      "article": "АК-15",
+      "quantity": 1.0,
+      "createdAt": "2026-09-08T12:00:19.000Z"
+    },
+    {
+      "id": "csv-shp-20",
+      "date": "2026-09-08",
+      "article": "Г-1800",
+      "quantity": 11.0,
+      "createdAt": "2026-09-08T12:00:20.000Z"
+    },
+    {
+      "id": "csv-shp-21",
+      "date": "2026-09-08",
+      "article": "Г-800",
+      "quantity": 3.0,
+      "createdAt": "2026-09-08T12:00:21.000Z"
+    },
+    {
+      "id": "csv-shp-22",
+      "date": "2026-09-09",
+      "article": "АК-15",
+      "quantity": 1.0,
+      "createdAt": "2026-09-09T12:00:22.000Z"
+    },
+    {
+      "id": "csv-shp-23",
+      "date": "2026-09-09",
+      "article": "Г-1800",
+      "quantity": 8.0,
+      "createdAt": "2026-09-09T12:00:23.000Z"
+    },
+    {
+      "id": "csv-shp-24",
+      "date": "2026-09-09",
+      "article": "Г-800",
+      "quantity": 5.0,
+      "createdAt": "2026-09-09T12:00:24.000Z"
+    },
+    {
+      "id": "csv-shp-25",
+      "date": "2026-09-09",
+      "article": "Ми-К",
+      "quantity": 1.0,
+      "createdAt": "2026-09-09T12:00:25.000Z"
+    },
+    {
+      "id": "csv-shp-29",
+      "date": "2026-09-10",
+      "article": "Г-1800",
+      "quantity": 10.0,
+      "createdAt": "2026-09-10T12:00:29.000Z"
+    },
+    {
+      "id": "csv-shp-30",
+      "date": "2026-09-10",
+      "article": "Г-800",
+      "quantity": 8.0,
+      "createdAt": "2026-09-10T12:00:30.000Z"
+    },
+    {
+      "id": "csv-shp-32",
+      "date": "2026-09-10",
+      "article": "Ми-К",
+      "quantity": 1.0,
+      "createdAt": "2026-09-10T12:00:32.000Z"
+    },
+    {
+      "id": "csv-shp-34",
+      "date": "2026-09-10",
+      "article": "Ми-П",
+      "quantity": 1.0,
+      "createdAt": "2026-09-10T12:00:34.000Z"
+    },
+    {
+      "id": "csv-shp-36",
+      "date": "2026-09-11",
+      "article": "АК-10",
+      "quantity": 5.0,
+      "createdAt": "2026-09-11T12:00:36.000Z"
+    },
+    {
+      "id": "csv-shp-37",
+      "date": "2026-09-11",
+      "article": "АК-15",
+      "quantity": 2.0,
+      "createdAt": "2026-09-11T12:00:37.000Z"
+    },
+    {
+      "id": "csv-shp-38",
+      "date": "2026-09-11",
+      "article": "Г-3500",
+      "quantity": 2.0,
+      "createdAt": "2026-09-11T12:00:38.000Z"
+    },
+    {
+      "id": "csv-shp-39",
+      "date": "2026-09-11",
+      "article": "Г-1800",
+      "quantity": 12.0,
+      "createdAt": "2026-09-11T12:00:39.000Z"
+    },
+    {
+      "id": "csv-shp-41",
+      "date": "2026-09-11",
+      "article": "Г-800",
+      "quantity": 4.0,
+      "createdAt": "2026-09-11T12:00:41.000Z"
+    },
+    {
+      "id": "csv-shp-42",
+      "date": "2026-09-11",
+      "article": "Ми-К",
+      "quantity": 6.0,
+      "createdAt": "2026-09-11T12:00:42.000Z"
+    },
+    {
+      "id": "csv-shp-43",
+      "date": "2026-09-11",
+      "article": "Ми-П",
+      "quantity": 1.0,
+      "createdAt": "2026-09-11T12:00:43.000Z"
+    },
+    {
+      "id": "csv-shp-44",
+      "date": "2026-09-12",
+      "article": "АК-10",
+      "quantity": 1.0,
+      "createdAt": "2026-09-12T12:00:44.000Z"
+    },
+    {
+      "id": "csv-shp-45",
+      "date": "2026-09-12",
+      "article": "АК-15",
+      "quantity": 2.0,
+      "createdAt": "2026-09-12T12:00:45.000Z"
+    },
+    {
+      "id": "csv-shp-46",
+      "date": "2026-09-12",
+      "article": "Г-3500",
+      "quantity": 1.0,
+      "createdAt": "2026-09-12T12:00:46.000Z"
+    },
+    {
+      "id": "csv-shp-47",
+      "date": "2026-09-12",
+      "article": "Г-1800",
+      "quantity": 5.0,
+      "createdAt": "2026-09-12T12:00:47.000Z"
+    },
+    {
+      "id": "csv-shp-48",
+      "date": "2026-09-12",
+      "article": "Г-800",
+      "quantity": 8.0,
+      "createdAt": "2026-09-12T12:00:48.000Z"
+    },
+    {
+      "id": "csv-shp-49",
+      "date": "2026-09-12",
+      "article": "Ми-К",
+      "quantity": 4.0,
+      "createdAt": "2026-09-12T12:00:49.000Z"
+    },
+    {
+      "id": "csv-shp-50",
+      "date": "2026-09-12",
+      "article": "Ми-П",
+      "quantity": 1.0,
+      "createdAt": "2026-09-12T12:00:50.000Z"
+    },
+    {
+      "id": "csv-shp-51",
+      "date": "2026-09-13",
+      "article": "АК-10",
+      "quantity": 4.0,
+      "createdAt": "2026-09-13T12:00:51.000Z"
+    },
+    {
+      "id": "csv-shp-52",
+      "date": "2026-09-13",
+      "article": "АК-15",
+      "quantity": 2.0,
+      "createdAt": "2026-09-13T12:00:52.000Z"
+    },
+    {
+      "id": "csv-shp-54",
+      "date": "2026-09-13",
+      "article": "Г-3500",
+      "quantity": 2.0,
+      "createdAt": "2026-09-13T12:00:54.000Z"
+    },
+    {
+      "id": "csv-shp-55",
+      "date": "2026-09-13",
+      "article": "Г-1800",
+      "quantity": 2.0,
+      "createdAt": "2026-09-13T12:00:55.000Z"
+    },
+    {
+      "id": "csv-shp-56",
+      "date": "2026-09-13",
+      "article": "Г-800",
+      "quantity": 4.0,
+      "createdAt": "2026-09-13T12:00:56.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-14-0",
+      "date": "2026-09-14",
+      "article": "АК-10",
+      "quantity": 2,
+      "createdAt": "2026-09-14T18:00:00.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-14-1",
+      "date": "2026-09-14",
+      "article": "АК-15",
+      "quantity": 2,
+      "createdAt": "2026-09-14T18:00:01.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-14-3",
+      "date": "2026-09-14",
+      "article": "Г-1800",
+      "quantity": 8,
+      "createdAt": "2026-09-14T18:00:03.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-14-4",
+      "date": "2026-09-14",
+      "article": "Г-800",
+      "quantity": 7,
+      "createdAt": "2026-09-14T18:00:04.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-14-5",
+      "date": "2026-09-14",
+      "article": "Ми-К",
+      "quantity": 2,
+      "createdAt": "2026-09-14T18:00:05.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-14-6",
+      "date": "2026-09-14",
+      "article": "Ми-П",
+      "quantity": 1,
+      "createdAt": "2026-09-14T18:00:06.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-15-1",
+      "date": "2026-09-15",
+      "article": "АК-15",
+      "quantity": 1,
+      "createdAt": "2026-09-15T18:00:01.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-15-2",
+      "date": "2026-09-15",
+      "article": "Г-3500",
+      "quantity": 1,
+      "createdAt": "2026-09-15T18:00:02.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-15-3",
+      "date": "2026-09-15",
+      "article": "Г-1800",
+      "quantity": 11,
+      "createdAt": "2026-09-15T18:00:03.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-15-4",
+      "date": "2026-09-15",
+      "article": "Г-800",
+      "quantity": 7,
+      "createdAt": "2026-09-15T18:00:04.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-15-5",
+      "date": "2026-09-15",
+      "article": "Ми-К",
+      "quantity": 4,
+      "createdAt": "2026-09-15T18:00:05.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-15-6",
+      "date": "2026-09-15",
+      "article": "Ми-П",
+      "quantity": 1,
+      "createdAt": "2026-09-15T18:00:06.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-16-0",
+      "date": "2026-09-16",
+      "article": "АК-10",
+      "quantity": 1,
+      "createdAt": "2026-09-16T18:00:00.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-16-1",
+      "date": "2026-09-16",
+      "article": "АК-15",
+      "quantity": 3,
+      "createdAt": "2026-09-16T18:00:01.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-16-3",
+      "date": "2026-09-16",
+      "article": "Г-1800",
+      "quantity": 13,
+      "createdAt": "2026-09-16T18:00:03.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-16-4",
+      "date": "2026-09-16",
+      "article": "Г-800",
+      "quantity": 12,
+      "createdAt": "2026-09-16T18:00:04.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-16-6",
+      "date": "2026-09-16",
+      "article": "Ми-П",
+      "quantity": 1,
+      "createdAt": "2026-09-16T18:00:06.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-17-0",
+      "date": "2026-09-17",
+      "article": "АК-10",
+      "quantity": 1,
+      "createdAt": "2026-09-17T18:00:00.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-17-1",
+      "date": "2026-09-17",
+      "article": "АК-15",
+      "quantity": 3,
+      "createdAt": "2026-09-17T18:00:01.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-17-3",
+      "date": "2026-09-17",
+      "article": "Г-1800",
+      "quantity": 13,
+      "createdAt": "2026-09-17T18:00:03.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-17-4",
+      "date": "2026-09-17",
+      "article": "Г-800",
+      "quantity": 3,
+      "createdAt": "2026-09-17T18:00:04.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-17-5",
+      "date": "2026-09-17",
+      "article": "Ми-К",
+      "quantity": 1,
+      "createdAt": "2026-09-17T18:00:05.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-17-6",
+      "date": "2026-09-17",
+      "article": "Ми-П",
+      "quantity": 2,
+      "createdAt": "2026-09-17T18:00:06.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-18-0",
+      "date": "2026-09-18",
+      "article": "АК-10",
+      "quantity": 1,
+      "createdAt": "2026-09-18T18:00:00.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-18-1",
+      "date": "2026-09-18",
+      "article": "АК-15",
+      "quantity": 1,
+      "createdAt": "2026-09-18T18:00:01.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-18-2",
+      "date": "2026-09-18",
+      "article": "Г-3500",
+      "quantity": 1,
+      "createdAt": "2026-09-18T18:00:02.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-18-3",
+      "date": "2026-09-18",
+      "article": "Г-1800",
+      "quantity": 12,
+      "createdAt": "2026-09-18T18:00:03.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-18-4",
+      "date": "2026-09-18",
+      "article": "Г-800",
+      "quantity": 4,
+      "createdAt": "2026-09-18T18:00:04.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-19-3",
+      "date": "2026-09-19",
+      "article": "Г-1800",
+      "quantity": 15,
+      "createdAt": "2026-09-19T18:00:03.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-19-4",
+      "date": "2026-09-19",
+      "article": "Г-800",
+      "quantity": 8,
+      "createdAt": "2026-09-19T18:00:04.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-20-0",
+      "date": "2026-09-20",
+      "article": "АК-10",
+      "quantity": 3,
+      "createdAt": "2026-09-20T18:00:00.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-20-1",
+      "date": "2026-09-20",
+      "article": "АК-15",
+      "quantity": 2,
+      "createdAt": "2026-09-20T18:00:01.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-20-2",
+      "date": "2026-09-20",
+      "article": "Г-3500",
+      "quantity": 2,
+      "createdAt": "2026-09-20T18:00:02.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-20-3",
+      "date": "2026-09-20",
+      "article": "Г-1800",
+      "quantity": 13,
+      "createdAt": "2026-09-20T18:00:03.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-20-4",
+      "date": "2026-09-20",
+      "article": "Г-800",
+      "quantity": 8,
+      "createdAt": "2026-09-20T18:00:04.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-20-5",
+      "date": "2026-09-20",
+      "article": "Ми-К",
+      "quantity": 4,
+      "createdAt": "2026-09-20T18:00:05.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-20-6",
+      "date": "2026-09-20",
+      "article": "Ми-П",
+      "quantity": 1,
+      "createdAt": "2026-09-20T18:00:06.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-21-0",
+      "date": "2026-09-21",
+      "article": "АК-10",
+      "quantity": 1,
+      "createdAt": "2026-09-21T18:00:00.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-21-1",
+      "date": "2026-09-21",
+      "article": "АК-15",
+      "quantity": 2,
+      "createdAt": "2026-09-21T18:00:01.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-21-3",
+      "date": "2026-09-21",
+      "article": "Г-1800",
+      "quantity": 14,
+      "createdAt": "2026-09-21T18:00:03.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-21-4",
+      "date": "2026-09-21",
+      "article": "Г-800",
+      "quantity": 4,
+      "createdAt": "2026-09-21T18:00:04.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-21-5",
+      "date": "2026-09-21",
+      "article": "Ми-К",
+      "quantity": 3,
+      "createdAt": "2026-09-21T18:00:05.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-21-6",
+      "date": "2026-09-21",
+      "article": "Ми-П",
+      "quantity": 3,
+      "createdAt": "2026-09-21T18:00:06.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-22-0",
+      "date": "2026-09-22",
+      "article": "АК-10",
+      "quantity": 1,
+      "createdAt": "2026-09-22T18:00:00.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-22-1",
+      "date": "2026-09-22",
+      "article": "АК-15",
+      "quantity": 1,
+      "createdAt": "2026-09-22T18:00:01.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-22-3",
+      "date": "2026-09-22",
+      "article": "Г-1800",
+      "quantity": 10,
+      "createdAt": "2026-09-22T18:00:03.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-22-4",
+      "date": "2026-09-22",
+      "article": "Г-800",
+      "quantity": 4,
+      "createdAt": "2026-09-22T18:00:04.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-22-5",
+      "date": "2026-09-22",
+      "article": "Ми-К",
+      "quantity": 2,
+      "createdAt": "2026-09-22T18:00:05.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-22-6",
+      "date": "2026-09-22",
+      "article": "Ми-П",
+      "quantity": 2,
+      "createdAt": "2026-09-22T18:00:06.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-23-0",
+      "date": "2026-09-23",
+      "article": "АК-10",
+      "quantity": 3,
+      "createdAt": "2026-09-23T18:00:00.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-23-1",
+      "date": "2026-09-23",
+      "article": "АК-15",
+      "quantity": 4,
+      "createdAt": "2026-09-23T18:00:01.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-23-3",
+      "date": "2026-09-23",
+      "article": "Г-1800",
+      "quantity": 6,
+      "createdAt": "2026-09-23T18:00:03.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-23-4",
+      "date": "2026-09-23",
+      "article": "Г-800",
+      "quantity": 4,
+      "createdAt": "2026-09-23T18:00:04.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-23-5",
+      "date": "2026-09-23",
+      "article": "Ми-К",
+      "quantity": 2,
+      "createdAt": "2026-09-23T18:00:05.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-23-6",
+      "date": "2026-09-23",
+      "article": "Ми-П",
+      "quantity": 4,
+      "createdAt": "2026-09-23T18:00:06.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-24-0",
+      "date": "2026-09-24",
+      "article": "АК-10",
+      "quantity": 5,
+      "createdAt": "2026-09-24T18:00:00.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-24-1",
+      "date": "2026-09-24",
+      "article": "АК-15",
+      "quantity": 3,
+      "createdAt": "2026-09-24T18:00:01.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-24-2",
+      "date": "2026-09-24",
+      "article": "Г-3500",
+      "quantity": 1,
+      "createdAt": "2026-09-24T18:00:02.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-24-3",
+      "date": "2026-09-24",
+      "article": "Г-1800",
+      "quantity": 12,
+      "createdAt": "2026-09-24T18:00:03.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-24-4",
+      "date": "2026-09-24",
+      "article": "Г-800",
+      "quantity": 7,
+      "createdAt": "2026-09-24T18:00:04.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-24-5",
+      "date": "2026-09-24",
+      "article": "Ми-К",
+      "quantity": 4,
+      "createdAt": "2026-09-24T18:00:05.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-24-6",
+      "date": "2026-09-24",
+      "article": "Ми-П",
+      "quantity": 7,
+      "createdAt": "2026-09-24T18:00:06.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-25-0",
+      "date": "2026-09-25",
+      "article": "АК-10",
+      "quantity": 7,
+      "createdAt": "2026-09-25T18:00:00.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-25-1",
+      "date": "2026-09-25",
+      "article": "АК-15",
+      "quantity": 3,
+      "createdAt": "2026-09-25T18:00:01.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-25-2",
+      "date": "2026-09-25",
+      "article": "Г-3500",
+      "quantity": 1,
+      "createdAt": "2026-09-25T18:00:02.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-25-3",
+      "date": "2026-09-25",
+      "article": "Г-1800",
+      "quantity": 10,
+      "createdAt": "2026-09-25T18:00:03.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-25-4",
+      "date": "2026-09-25",
+      "article": "Г-800",
+      "quantity": 2,
+      "createdAt": "2026-09-25T18:00:04.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-25-5",
+      "date": "2026-09-25",
+      "article": "Ми-К",
+      "quantity": 5,
+      "createdAt": "2026-09-25T18:00:05.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-25-6",
+      "date": "2026-09-25",
+      "article": "Ми-П",
+      "quantity": 2,
+      "createdAt": "2026-09-25T18:00:06.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-26-0",
+      "date": "2026-09-26",
+      "article": "АК-10",
+      "quantity": 8,
+      "createdAt": "2026-09-26T18:00:00.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-26-2",
+      "date": "2026-09-26",
+      "article": "Г-3500",
+      "quantity": 1,
+      "createdAt": "2026-09-26T18:00:02.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-26-3",
+      "date": "2026-09-26",
+      "article": "Г-1800",
+      "quantity": 6,
+      "createdAt": "2026-09-26T18:00:03.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-26-4",
+      "date": "2026-09-26",
+      "article": "Г-800",
+      "quantity": 1,
+      "createdAt": "2026-09-26T18:00:04.000Z"
+    },
+    {
+      "id": "merged-clean-shp-2026-09-26-5",
+      "date": "2026-09-26",
+      "article": "Ми-К",
+      "quantity": 2,
+      "createdAt": "2026-09-26T18:00:05.000Z"
+    },
+    {
+      "id": "merged-live-shp-2026-09-27-0",
+      "date": "2026-09-27",
+      "article": "АК-10",
+      "quantity": 17,
+      "createdAt": "2026-09-27T18:00:00.000Z"
+    },
+    {
+      "id": "merged-live-shp-2026-09-27-1",
+      "date": "2026-09-27",
+      "article": "АК-15",
+      "quantity": 1,
+      "createdAt": "2026-09-27T18:00:01.000Z"
+    },
+    {
+      "id": "merged-live-shp-2026-09-27-2",
+      "date": "2026-09-27",
+      "article": "Г-3500",
+      "quantity": 5,
+      "createdAt": "2026-09-27T18:00:02.000Z"
+    },
+    {
+      "id": "merged-live-shp-2026-09-27-3",
+      "date": "2026-09-27",
+      "article": "Г-1800",
+      "quantity": 7,
+      "createdAt": "2026-09-27T18:00:03.000Z"
+    },
+    {
+      "id": "merged-live-shp-2026-09-27-4",
+      "date": "2026-09-27",
+      "article": "Г-800",
+      "quantity": 4,
+      "createdAt": "2026-09-27T18:00:04.000Z"
+    },
+    {
+      "id": "merged-live-shp-2026-09-27-5",
+      "date": "2026-09-27",
+      "article": "Ми-К",
+      "quantity": 6,
+      "createdAt": "2026-09-27T18:00:05.000Z"
+    }
+  ],
+  "adjustments": [
+    {
+      "id": "csv-opening-0",
+      "date": "2026-09-07",
+      "article": "АК-10",
+      "quantity": 18.0,
+      "kind": "opening",
+      "position": "beforeDay",
+      "reason": "Входящий остаток из CSV",
+      "note": "Восстановление полной базы",
+      "createdAt": "2026-09-07T12:00:00.000Z"
+    },
+    {
+      "id": "csv-opening-1",
+      "date": "2026-09-07",
+      "article": "АК-15",
+      "quantity": 24.0,
+      "kind": "opening",
+      "position": "beforeDay",
+      "reason": "Входящий остаток из CSV",
+      "note": "Восстановление полной базы",
+      "createdAt": "2026-09-07T12:00:02.000Z"
+    },
+    {
+      "id": "csv-opening-2",
+      "date": "2026-09-07",
+      "article": "Г-3500",
+      "quantity": 3.0,
+      "kind": "opening",
+      "position": "beforeDay",
+      "reason": "Входящий остаток из CSV",
+      "note": "Восстановление полной базы",
+      "createdAt": "2026-09-07T12:00:04.000Z"
+    },
+    {
+      "id": "csv-opening-3",
+      "date": "2026-09-07",
+      "article": "Г-1800",
+      "quantity": 66.0,
+      "kind": "opening",
+      "position": "beforeDay",
+      "reason": "Входящий остаток из CSV",
+      "note": "Восстановление полной базы",
+      "createdAt": "2026-09-07T12:00:06.000Z"
+    },
+    {
+      "id": "csv-opening-4",
+      "date": "2026-09-07",
+      "article": "Г-800",
+      "quantity": 39.0,
+      "kind": "opening",
+      "position": "beforeDay",
+      "reason": "Входящий остаток из CSV",
+      "note": "Восстановление полной базы",
+      "createdAt": "2026-09-07T12:00:10.000Z"
+    },
+    {
+      "id": "csv-opening-5",
+      "date": "2026-09-07",
+      "article": "Ми-К",
+      "quantity": 17.0,
+      "kind": "opening",
+      "position": "beforeDay",
+      "reason": "Входящий остаток из CSV",
+      "note": "Восстановление полной базы",
+      "createdAt": "2026-09-07T12:00:14.000Z"
+    },
+    {
+      "id": "csv-cor-92",
+      "date": "2026-09-20",
+      "article": "АК-10",
+      "quantity": 1.0,
+      "kind": "correction",
+      "position": "beforeDay",
+      "reason": "Корректировка из CSV",
+      "createdAt": "2026-09-20T12:00:32.000Z"
+    },
+    {
+      "id": "csv-cor-94",
+      "date": "2026-09-20",
+      "article": "АК-15",
+      "quantity": 3.0,
+      "kind": "correction",
+      "position": "beforeDay",
+      "reason": "Корректировка из CSV",
+      "createdAt": "2026-09-20T12:00:34.000Z"
+    },
+    {
+      "id": "csv-cor-96",
+      "date": "2026-09-20",
+      "article": "Г-3500",
+      "quantity": -3.0,
+      "kind": "correction",
+      "position": "beforeDay",
+      "reason": "Корректировка из CSV",
+      "createdAt": "2026-09-20T12:00:36.000Z"
+    },
+    {
+      "id": "csv-cor-98",
+      "date": "2026-09-20",
+      "article": "Г-1800",
+      "quantity": 9.0,
+      "kind": "correction",
+      "position": "beforeDay",
+      "reason": "Корректировка из CSV",
+      "createdAt": "2026-09-20T12:00:38.000Z"
+    },
+    {
+      "id": "csv-cor-100",
+      "date": "2026-09-20",
+      "article": "Г-800",
+      "quantity": -1.0,
+      "kind": "correction",
+      "position": "beforeDay",
+      "reason": "Корректировка из CSV",
+      "createdAt": "2026-09-20T12:00:40.000Z"
+    },
+    {
+      "id": "csv-cor-102",
+      "date": "2026-09-20",
+      "article": "Ми-К",
+      "quantity": 1.0,
+      "kind": "correction",
+      "position": "beforeDay",
+      "reason": "Корректировка из CSV",
+      "createdAt": "2026-09-20T12:00:42.000Z"
+    },
+    {
+      "id": "csv-inv-103",
+      "date": "2026-09-20",
+      "article": "Ми-К",
+      "quantity": -1.0,
+      "kind": "inventory",
+      "position": "afterDay",
+      "reason": "Инвентаризационная корректировка из CSV",
+      "createdAt": "2026-09-20T12:00:43.000Z"
+    },
+    {
+      "id": "collapsed-correction-2026-09-07-AK10",
+      "date": "2026-09-07",
+      "article": "АК-10",
+      "quantity": 10,
+      "kind": "correction",
+      "position": "beforeDay",
+      "reason": "Схлопнутая подтверждённая корректировка (+13 и −3)",
+      "note": "Нетто отнесено на первую дату корректировки; зеркальная запись 14.09 исключена",
+      "createdAt": "2026-09-07T12:00:59.000Z"
+    }
+  ],
+  "reconciliationResolutions": {},
+  "schedule": {
+    "2026-09-07": "Пузанов Д.В.",
+    "2026-09-08": "Завалишин Д.Л.",
+    "2026-09-09": "Завалишин Д.Л.",
+    "2026-09-10": "Завалишин Д.Л.",
+    "2026-09-11": "Пузанов Д.В.",
+    "2026-09-12": "Завалишин Д.Л.",
+    "2026-09-13": "Завалишин Д.Л.",
+    "2026-09-14": "Пузанов Д.В.",
+    "2026-09-15": "Завалишин Д.Л.",
+    "2026-09-16": "Завалишин Д.Л.",
+    "2026-09-17": "Завалишин Д.Л.",
+    "2026-09-18": "Пузанов Д.В.",
+    "2026-09-19": "Завалишин Д.Л.",
+    "2026-09-20": "Завалишин Д.Л.",
+    "2026-09-21": "Пузанов Д.В.",
+    "2026-09-22": "Завалишин Д.Л.",
+    "2026-09-23": "Завалишин Д.Л.",
+    "2026-09-24": "Завалишин Д.Л.",
+    "2026-09-25": "Пузанов Д.В.",
+    "2026-09-26": "Завалишин Д.Л.",
+    "2026-09-27": "Завалишин Д.Л.",
+    "2026-09-28": "Пузанов Д.В.",
+    "2026-09-29": "Завалишин Д.Л.",
+    "2026-09-30": "Завалишин Д.Л.",
+    "2026-10-01": "Завалишин Д.Л.",
+    "2026-10-02": "Пузанов Д.В.",
+    "2026-10-03": "Завалишин Д.Л.",
+    "2026-10-04": "Завалишин Д.Л."
+  },
+  "settings": {
+    "pvzName": "ПВЗ Wildberries № 215885",
+    "sellerName": "ИП Лысаков Семён",
+    "reportDateFrom": "2026-09-07",
+    "reportDateTo": "2026-09-27",
+    "freeStorageDays": 7
+  }
+}
