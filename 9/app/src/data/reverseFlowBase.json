@@ -1,0 +1,614 @@
+[
+  {
+    "id": "historical-return-01",
+    "article": "Г-1800",
+    "receivedDate": "2026-09-07",
+    "status": "direct",
+    "defects": [],
+    "events": [
+      {
+        "stage": "intake",
+        "date": "2026-09-07",
+        "operator": "Пузанов Д.В."
+      },
+      {
+        "stage": "inspection",
+        "date": "2026-09-07",
+        "operator": "Пузанов Д.В."
+      },
+      {
+        "stage": "packaging",
+        "date": "2026-09-07",
+        "operator": "Пузанов Д.В."
+      }
+    ],
+    "closedDate": "2026-09-07"
+  },
+  {
+    "id": "historical-return-02",
+    "article": "Г-1800",
+    "receivedDate": "2026-09-07",
+    "status": "direct",
+    "defects": [],
+    "events": [
+      {
+        "stage": "intake",
+        "date": "2026-09-07",
+        "operator": "Пузанов Д.В."
+      },
+      {
+        "stage": "inspection",
+        "date": "2026-09-07",
+        "operator": "Пузанов Д.В."
+      },
+      {
+        "stage": "packaging",
+        "date": "2026-09-07",
+        "operator": "Пузанов Д.В."
+      }
+    ],
+    "closedDate": "2026-09-07"
+  },
+  {
+    "id": "historical-return-03",
+    "article": "Г-1800",
+    "receivedDate": "2026-09-07",
+    "status": "direct",
+    "defects": [],
+    "events": [
+      {
+        "stage": "intake",
+        "date": "2026-09-07",
+        "operator": "Пузанов Д.В."
+      },
+      {
+        "stage": "inspection",
+        "date": "2026-09-07",
+        "operator": "Пузанов Д.В."
+      },
+      {
+        "stage": "packaging",
+        "date": "2026-09-07",
+        "operator": "Пузанов Д.В."
+      }
+    ],
+    "closedDate": "2026-09-07"
+  },
+  {
+    "id": "historical-return-04",
+    "article": "Г-800",
+    "receivedDate": "2026-09-07",
+    "status": "direct",
+    "defects": [],
+    "events": [
+      {
+        "stage": "intake",
+        "date": "2026-09-07",
+        "operator": "Пузанов Д.В."
+      },
+      {
+        "stage": "inspection",
+        "date": "2026-09-07",
+        "operator": "Пузанов Д.В."
+      },
+      {
+        "stage": "packaging",
+        "date": "2026-09-07",
+        "operator": "Пузанов Д.В."
+      }
+    ],
+    "closedDate": "2026-09-07"
+  },
+  {
+    "id": "historical-return-05",
+    "article": "Г-800",
+    "receivedDate": "2026-09-07",
+    "status": "direct",
+    "defects": [],
+    "events": [
+      {
+        "stage": "intake",
+        "date": "2026-09-07",
+        "operator": "Пузанов Д.В."
+      },
+      {
+        "stage": "inspection",
+        "date": "2026-09-07",
+        "operator": "Пузанов Д.В."
+      },
+      {
+        "stage": "packaging",
+        "date": "2026-09-07",
+        "operator": "Пузанов Д.В."
+      }
+    ],
+    "closedDate": "2026-09-07"
+  },
+  {
+    "id": "historical-return-06",
+    "article": "Ми-К",
+    "receivedDate": "2026-09-07",
+    "status": "direct",
+    "defects": [],
+    "events": [
+      {
+        "stage": "intake",
+        "date": "2026-09-07",
+        "operator": "Пузанов Д.В."
+      },
+      {
+        "stage": "inspection",
+        "date": "2026-09-07",
+        "operator": "Пузанов Д.В."
+      },
+      {
+        "stage": "packaging",
+        "date": "2026-09-07",
+        "operator": "Пузанов Д.В."
+      }
+    ],
+    "closedDate": "2026-09-07"
+  },
+  {
+    "id": "historical-return-07",
+    "article": "Г-3500",
+    "receivedDate": "2026-09-13",
+    "status": "direct",
+    "defects": [],
+    "events": [
+      {
+        "stage": "intake",
+        "date": "2026-09-13",
+        "operator": "Завалишин Д.Л."
+      },
+      {
+        "stage": "inspection",
+        "date": "2026-09-13",
+        "operator": "Завалишин Д.Л."
+      },
+      {
+        "stage": "packaging",
+        "date": "2026-09-13",
+        "operator": "Завалишин Д.Л."
+      }
+    ],
+    "closedDate": "2026-09-13"
+  },
+  {
+    "id": "historical-return-08",
+    "article": "Г-3500",
+    "receivedDate": "2026-09-13",
+    "status": "direct",
+    "defects": [],
+    "events": [
+      {
+        "stage": "intake",
+        "date": "2026-09-13",
+        "operator": "Завалишин Д.Л."
+      },
+      {
+        "stage": "inspection",
+        "date": "2026-09-13",
+        "operator": "Завалишин Д.Л."
+      },
+      {
+        "stage": "packaging",
+        "date": "2026-09-13",
+        "operator": "Завалишин Д.Л."
+      }
+    ],
+    "closedDate": "2026-09-13"
+  },
+  {
+    "id": "historical-return-09",
+    "article": "Ми-К",
+    "receivedDate": "2026-09-14",
+    "status": "direct",
+    "defects": [],
+    "events": [
+      {
+        "stage": "intake",
+        "date": "2026-09-14",
+        "operator": "Пузанов Д.В."
+      },
+      {
+        "stage": "inspection",
+        "date": "2026-09-14",
+        "operator": "Пузанов Д.В."
+      },
+      {
+        "stage": "packaging",
+        "date": "2026-09-14",
+        "operator": "Пузанов Д.В."
+      }
+    ],
+    "closedDate": "2026-09-14"
+  },
+  {
+    "id": "historical-return-10",
+    "article": "Г-1800",
+    "receivedDate": "2026-09-25",
+    "status": "direct",
+    "defects": [],
+    "events": [
+      {
+        "stage": "intake",
+        "date": "2026-09-25",
+        "operator": "Пузанов Д.В."
+      },
+      {
+        "stage": "inspection",
+        "date": "2026-09-25",
+        "operator": "Пузанов Д.В."
+      },
+      {
+        "stage": "packaging",
+        "date": "2026-09-25",
+        "operator": "Пузанов Д.В."
+      }
+    ],
+    "closedDate": "2026-09-25"
+  },
+  {
+    "id": "historical-return-11",
+    "article": "Г-1800",
+    "receivedDate": "2026-09-25",
+    "status": "direct",
+    "defects": [],
+    "events": [
+      {
+        "stage": "intake",
+        "date": "2026-09-25",
+        "operator": "Пузанов Д.В."
+      },
+      {
+        "stage": "inspection",
+        "date": "2026-09-25",
+        "operator": "Пузанов Д.В."
+      },
+      {
+        "stage": "packaging",
+        "date": "2026-09-25",
+        "operator": "Пузанов Д.В."
+      }
+    ],
+    "closedDate": "2026-09-25"
+  },
+  {
+    "id": "historical-return-12",
+    "article": "Г-1800",
+    "receivedDate": "2026-09-25",
+    "status": "direct",
+    "defects": [],
+    "events": [
+      {
+        "stage": "intake",
+        "date": "2026-09-25",
+        "operator": "Пузанов Д.В."
+      },
+      {
+        "stage": "inspection",
+        "date": "2026-09-25",
+        "operator": "Пузанов Д.В."
+      },
+      {
+        "stage": "packaging",
+        "date": "2026-09-25",
+        "operator": "Пузанов Д.В."
+      }
+    ],
+    "closedDate": "2026-09-25"
+  },
+  {
+    "id": "historical-return-13",
+    "article": "Г-1800",
+    "receivedDate": "2026-09-25",
+    "status": "direct",
+    "defects": [],
+    "events": [
+      {
+        "stage": "intake",
+        "date": "2026-09-25",
+        "operator": "Пузанов Д.В."
+      },
+      {
+        "stage": "inspection",
+        "date": "2026-09-25",
+        "operator": "Пузанов Д.В."
+      },
+      {
+        "stage": "packaging",
+        "date": "2026-09-25",
+        "operator": "Пузанов Д.В."
+      }
+    ],
+    "closedDate": "2026-09-25"
+  },
+  {
+    "id": "historical-return-14",
+    "article": "Г-800",
+    "receivedDate": "2026-09-25",
+    "status": "direct",
+    "defects": [],
+    "events": [
+      {
+        "stage": "intake",
+        "date": "2026-09-25",
+        "operator": "Пузанов Д.В."
+      },
+      {
+        "stage": "inspection",
+        "date": "2026-09-25",
+        "operator": "Пузанов Д.В."
+      },
+      {
+        "stage": "packaging",
+        "date": "2026-09-25",
+        "operator": "Пузанов Д.В."
+      }
+    ],
+    "closedDate": "2026-09-25"
+  },
+  {
+    "id": "historical-return-15",
+    "article": "Г-800",
+    "receivedDate": "2026-09-25",
+    "status": "direct",
+    "defects": [],
+    "events": [
+      {
+        "stage": "intake",
+        "date": "2026-09-25",
+        "operator": "Пузанов Д.В."
+      },
+      {
+        "stage": "inspection",
+        "date": "2026-09-25",
+        "operator": "Пузанов Д.В."
+      },
+      {
+        "stage": "packaging",
+        "date": "2026-09-25",
+        "operator": "Пузанов Д.В."
+      }
+    ],
+    "closedDate": "2026-09-25"
+  },
+  {
+    "id": "historical-return-16",
+    "article": "Ми-К",
+    "receivedDate": "2026-09-25",
+    "status": "direct",
+    "defects": [],
+    "events": [
+      {
+        "stage": "intake",
+        "date": "2026-09-25",
+        "operator": "Пузанов Д.В."
+      },
+      {
+        "stage": "inspection",
+        "date": "2026-09-25",
+        "operator": "Пузанов Д.В."
+      },
+      {
+        "stage": "packaging",
+        "date": "2026-09-25",
+        "operator": "Пузанов Д.В."
+      }
+    ],
+    "closedDate": "2026-09-25"
+  },
+  {
+    "id": "historical-return-17",
+    "article": "Ми-К",
+    "receivedDate": "2026-09-25",
+    "status": "direct",
+    "defects": [],
+    "events": [
+      {
+        "stage": "intake",
+        "date": "2026-09-25",
+        "operator": "Пузанов Д.В."
+      },
+      {
+        "stage": "inspection",
+        "date": "2026-09-25",
+        "operator": "Пузанов Д.В."
+      },
+      {
+        "stage": "packaging",
+        "date": "2026-09-25",
+        "operator": "Пузанов Д.В."
+      }
+    ],
+    "closedDate": "2026-09-25"
+  },
+  {
+    "id": "historical-return-18",
+    "article": "Ми-К",
+    "receivedDate": "2026-09-25",
+    "status": "direct",
+    "defects": [],
+    "events": [
+      {
+        "stage": "intake",
+        "date": "2026-09-25",
+        "operator": "Пузанов Д.В."
+      },
+      {
+        "stage": "inspection",
+        "date": "2026-09-25",
+        "operator": "Пузанов Д.В."
+      },
+      {
+        "stage": "packaging",
+        "date": "2026-09-25",
+        "operator": "Пузанов Д.В."
+      }
+    ],
+    "closedDate": "2026-09-25"
+  },
+  {
+    "id": "historical-return-19",
+    "article": "Ми-К",
+    "receivedDate": "2026-09-25",
+    "status": "direct",
+    "defects": [],
+    "events": [
+      {
+        "stage": "intake",
+        "date": "2026-09-25",
+        "operator": "Пузанов Д.В."
+      },
+      {
+        "stage": "inspection",
+        "date": "2026-09-25",
+        "operator": "Пузанов Д.В."
+      },
+      {
+        "stage": "packaging",
+        "date": "2026-09-25",
+        "operator": "Пузанов Д.В."
+      }
+    ],
+    "closedDate": "2026-09-25"
+  },
+  {
+    "id": "historical-return-20",
+    "article": "Ми-К",
+    "receivedDate": "2026-09-25",
+    "status": "direct",
+    "defects": [],
+    "events": [
+      {
+        "stage": "intake",
+        "date": "2026-09-25",
+        "operator": "Пузанов Д.В."
+      },
+      {
+        "stage": "inspection",
+        "date": "2026-09-25",
+        "operator": "Пузанов Д.В."
+      },
+      {
+        "stage": "packaging",
+        "date": "2026-09-25",
+        "operator": "Пузанов Д.В."
+      }
+    ],
+    "closedDate": "2026-09-25"
+  },
+  {
+    "id": "historical-return-21",
+    "article": "Г-3500",
+    "receivedDate": "2026-09-24",
+    "status": "direct",
+    "defects": [],
+    "events": [
+      {
+        "stage": "intake",
+        "date": "2026-09-24",
+        "operator": "Завалишин Д.Л."
+      },
+      {
+        "stage": "inspection",
+        "date": "2026-09-24",
+        "operator": "Завалишин Д.Л."
+      },
+      {
+        "stage": "packaging",
+        "date": "2026-09-24",
+        "operator": "Завалишин Д.Л."
+      }
+    ],
+    "closedDate": "2026-09-24"
+  },
+  {
+    "id": "historical-return-22",
+    "article": "Г-3500",
+    "receivedDate": "2026-09-24",
+    "status": "written_off",
+    "defects": [
+      "Гайковёрт",
+      "Иное: кейс пустой, гайковёрт украден"
+    ],
+    "events": [
+      {
+        "stage": "intake",
+        "date": "2026-09-24",
+        "operator": "Завалишин Д.Л."
+      },
+      {
+        "stage": "inspection",
+        "date": "2026-09-24",
+        "operator": "Завалишин Д.Л."
+      }
+    ],
+    "closedDate": "2026-09-24"
+  },
+  {
+    "id": "forced-return-2026-09-29-g3500-1",
+    "article": "Г-3500",
+    "receivedDate": "2026-09-29",
+    "status": "awaiting",
+    "defects": [],
+    "events": [
+      {
+        "stage": "intake",
+        "date": "2026-09-29",
+        "operator": "Завалишин Д.Л."
+      }
+    ]
+  },
+  {
+    "id": "forced-return-2026-09-30-г800-direct",
+    "article": "Г-800",
+    "receivedDate": "2026-09-30",
+    "status": "direct",
+    "defects": [],
+    "events": [
+      {
+        "stage": "intake",
+        "date": "2026-09-30",
+        "operator": "Завалишин Д.Л."
+      },
+      {
+        "stage": "inspection",
+        "date": "2026-09-30",
+        "operator": "Завалишин Д.Л."
+      },
+      {
+        "stage": "packaging",
+        "date": "2026-09-30",
+        "operator": "Завалишин Д.Л."
+      }
+    ],
+    "closedDate": "2026-09-30"
+  },
+  {
+    "id": "forced-return-2026-09-30-г1800-direct",
+    "article": "Г-1800",
+    "receivedDate": "2026-09-30",
+    "status": "direct",
+    "defects": [],
+    "events": [
+      {
+        "stage": "intake",
+        "date": "2026-09-30",
+        "operator": "Завалишин Д.Л."
+      },
+      {
+        "stage": "inspection",
+        "date": "2026-09-30",
+        "operator": "Завалишин Д.Л."
+      },
+      {
+        "stage": "packaging",
+        "date": "2026-09-30",
+        "operator": "Завалишин Д.Л."
+      }
+    ],
+    "closedDate": "2026-09-30"
+  }
+]

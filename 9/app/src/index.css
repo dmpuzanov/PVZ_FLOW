@@ -1,0 +1,109 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --pvz-primary: #5A081E;
+    --pvz-accent: #BD995A;
+    --pvz-bg: #FFFFFF;
+    --pvz-surface: #F8F8F9;
+    --pvz-text: #333333;
+    --pvz-muted: #6B5530;
+  }
+
+  body {
+    background-color: #FFFFFF;
+    color: #333333;
+    font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+  }
+}
+
+/* Custom compact scrollbars */
+::-webkit-scrollbar {
+  width: 7px;
+  height: 7px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #d4d4d8;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #a1a1aa;
+}
+
+/* Print Styles complying with Section 8.6 */
+@page portrait { size: A4 portrait; margin: 8mm; }
+@page landscape { size: A4 landscape; margin: 8mm; }
+
+@media print {
+  @page { margin: 8mm; }
+  body[data-print-orientation="portrait"] { page: portrait; }
+  body[data-print-orientation="landscape"] { page: landscape; }
+
+  body {
+    background: white !important;
+    color: #333333 !important;
+    font-size: 11pt !important;
+  }
+
+  /* Hide navigation, buttons, and applet shells */
+  header,
+  aside,
+  button,
+  .print\:hidden {
+    display: none !important;
+  }
+
+  /* Reset layout constraints for printing */
+  html, body, #root, .h-screen, .overflow-hidden, .overflow-auto {
+    height: auto !important;
+    overflow: visible !important;
+  }
+
+  /* Table rules for print (Section 8.6.2):
+     NO COLOR FILL IN TABLE CELLS!
+     White backgrounds only!
+  */
+  table, tr, td, th {
+    background-color: #ffffff !important;
+    color: #333333 !important;
+  }
+
+  th {
+    color: #5A081E !important;
+    font-weight: 700 !important;
+  }
+
+  /* Retain print borders */
+  table {
+    border-collapse: collapse !important;
+    width: 100% !important;
+  }
+
+  tr {
+    page-break-inside: avoid !important;
+  }
+
+  thead { display: table-header-group !important; }
+  tfoot { display: table-row-group !important; }
+  .print-header-root { break-after: avoid !important; }
+  .report-page-break { break-after: page !important; page-break-after: always !important; }
+  .payroll-sheet { break-after: page !important; page-break-after: always !important; }
+  .payroll-sheet:last-of-type { break-after: auto !important; page-break-after: auto !important; }
+  .invoice-sheet { font-size: 9.5pt !important; }
+  .invoice-sheet td, .invoice-sheet th { padding: 5px !important; }
+  main { display: block !important; }
+  * { box-shadow: none !important; }
+
+  /* Meta block cream background allowed per 8.6.3 */
+  .bg-\[\#EEE5D6\] {
+    background-color: #EEE5D6 !important;
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+}
